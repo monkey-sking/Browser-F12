@@ -1,5 +1,5 @@
-#生效的网页：https://i.mi.com/note/h5#/
-#来源：https://www.zhihu.com/question/35329107 https://www.zhihu.com/people/mengweidefy
+//生效的网页：https://i.mi.com/note/h5#/
+//来源：https://www.zhihu.com/question/35329107 https://www.zhihu.com/people/mengweidefy
 var text = '';
 var resultArray=[];
 var Ajax={
